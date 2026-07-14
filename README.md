@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Binary Search
