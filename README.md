@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
