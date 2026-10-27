@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0283-move-zeroes/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0268-missing-number/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [2404-most-frequent-even-element](https://github.com/mohit-rathore-2007/Leetcode-problems/tree/main/2404-most-frequent-even-element/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
